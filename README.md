@@ -84,7 +84,7 @@ Set your Hugging Face token in `data_generation/image_generation.py`.
 
 ## Reproducing the Study
 
-If changing the prompts, put the .txt files in the `prompts` folder.
+If changing the prompts, replace the .txt files in the `prompts` folder.
 Run the following steps in order:
 
 ```bash

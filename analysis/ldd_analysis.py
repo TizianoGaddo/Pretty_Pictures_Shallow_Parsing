@@ -9,8 +9,6 @@ import arviz as az
 RESULTS_DIR = "./results"   # path to the folder with the results of the VLM question answering
 OUTPUT_DIR  = "./results"   # path to the folder in which to save the csvs with the statistical results and the plots 
 
-N_PROMPTS = 240
-
 res_LDD = pd.read_csv(f'{RESULTS_DIR}/res_ldd.csv')
 answer_cols = ['a1','a2','a3','a4','a5','a6']
 

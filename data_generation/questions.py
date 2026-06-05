@@ -5,15 +5,12 @@ import os
 PROMPTS_DIR = "./prompts"   # path to the folder with the prompts' txt files
 OUTPUT_DIR  = "./questions" # path to the folder in which to save the questions csv files
 
-N_PROMPTS = 80
-
 if not os.path.exists(OUTPUT_DIR):
     os.makedirs(OUTPUT_DIR)
 
 # Importing prompts from txt files
 with open(f'{PROMPTS_DIR}/amb.txt', 'r') as f:
     amb_all = list(line.strip('\n') for line in f)
-amb = amb_all[::3]
 
 with open(f'{PROMPTS_DIR}/ldd.txt', 'r') as f:
     ldd = list(line.strip('\n') for line in f)
@@ -21,13 +18,9 @@ with open(f'{PROMPTS_DIR}/ldd.txt', 'r') as f:
 with open(f'{PROMPTS_DIR}/wo.txt', 'r') as f:
     wo = list(line.strip('\n') for line in f)
 
-PROMPTS = {'WordOrder': wo, 'Ambiguity': amb, 'LDD': ldd}
-METRICS = ['WordOrder', 'Ambiguity', 'LDD']
-
 # WORD ORDER questions
 word_order_df = pd.DataFrame(columns=['prompt', 'object_1', 'object_2', 'relation', 'q1', 'q2', 'q3', 'cq3'])
-
-for prompt in PROMPTS['WordOrder']:
+for prompt in wo:
     matches = re.search(r'(A |An )([\w\s]+) is (on top of|under|next to|to the left of|to the right of) (a |an )([\w\s]+)', prompt)
     art1 = matches.group(1)
     object1 = matches.group(2)
@@ -40,13 +33,13 @@ for prompt in PROMPTS['WordOrder']:
     cq3 = 'Is the ' + object2 + ' ' + relation + ' the ' + object1 + '? Please answer only with a yes or no.' # control question (order of the objects is inverted)
     word_order_df.loc[len(word_order_df)] = [prompt, object1, object2, relation, q1, q2, q3, q4]
 
-prompt_index = [i for i in range(1, N_PROMPTS+1) for _ in range(2)]
+prompt_index = [i for i in range(1, len(wo)+1) for _ in range(2)]
 word_order_df['prompt_index'] = prompt_index
 word_order_df.to_csv(f'{OUTPUT_DIR}/word_order_df.csv', index=False)
 
 # LDD questions
 LDD_df = pd.DataFrame(columns=['prompt', 'main_subj', 'main_verb', 'sub_subj', 'sub_verb', 'attribute_1', 'attribute_2', 'q1', 'q2', 'q3', 'q4', 'q5', 'q6'])
-for prompt in PROMPTS['LDD']:
+for prompt in ldd:
   matches = re.search(r'The (.*?) that the (.*?)(?: with (.*?))?(?: and (.*?))? is (.*?) is (.*?)\.', prompt)
   main_subj = matches.group(1)
   main_verb = matches.group(6)
@@ -72,10 +65,10 @@ LDD_df.to_csv(f'{OUTPUT_DIR}/ldd_df.csv', index=False)
 
 # AMBIGUITY questions
 meanings = list(zip(amb_all[1::3], amb_all[2::3]))
-
+amb = amb_all[::3]
 ambiguity_df = pd.DataFrame(columns=['prompt', 'meaning1', 'meaning2', 'q1','q2','q3','q4','cq4'])
-for i in range(len(meanings)):
-  prompt = PROMPTS['Ambiguity'][i]
+for i in range(len(amb)):
+  prompt = amb[i]
   meaning1 = meanings[i][0]
   meaning2 = meanings[i][1]
   q1 = 'Is this a good description of the image? ' + prompt + '. Please answer only with a yes or no.'
