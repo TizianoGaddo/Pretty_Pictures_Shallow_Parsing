@@ -25,8 +25,8 @@ For lower-memory hardware, models can be adapted using quantization.
 Clone the repository:
 
 ```bash
-git clone https://github.com/USERNAME/REPOSITORY.git
-cd REPOSITORY
+git clone https://github.com/TizianoGaddo/Pretty_Pictures_Shallow_Parsing.git
+cd Pretty_Pictures_Shallow_Parsing
 ```
 
 Create a virtual environment:
