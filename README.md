@@ -2,7 +2,7 @@
 
 This repository contains the code for the paper *“Pretty Pictures, Shallow Parsing: The Impact of Syntactic Structure on Diffusion Models”*.
 
-The study evaluates how a text-to-image diffusion model handles prompt with manipulations on:
+The study evaluates how a text-to-image diffusion model handles prompt manipulations on:
 
 - Word Order  
 - Long-Distance Dependencies (LDD)  
@@ -12,8 +12,9 @@ The study evaluates how a text-to-image diffusion model handles prompt with mani
 
 ## Requirements
 
+This code was tested on>
 - Python 3.13  
-- NVIDIA GPU recommended (original experiments used an A100 80GB VRAM)
+- NVIDIA A100 GPU, 80GB VRAM
 
 For lower-memory hardware, models can be adapted using quantization.
 
