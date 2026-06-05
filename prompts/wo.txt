@@ -1,0 +1,160 @@
+An orange is on top of an apple.
+An apple is on top of an orange.
+A tennis ball is on top of a baseball.
+A baseball is on top of a tennis ball.
+A turtle is on top of a tortoise.
+A tortoise is on top of a turtle.
+A melon is on top of a pumpkin.
+A pumpkin is on top of a melon.
+A bar of soap is on top of a sponge.
+A sponge is on top of a bar of soap.
+A hamster is on top of a guinea pig.
+A guinea pig is on top of a hamster.
+A lemon is on top of a peach.
+A peach is on top of a lemon.
+A brick is on top of a stone.
+A stone is on top of a brick.
+A seashell is on top of a rock.
+A rock is on top of a seashell.
+A peach is on top of an apple.
+An apple is on top of a peach.
+A pear is on top of an orange.
+An orange is on top of a pear.
+A muffin is on top of a cupcake.
+A cupcake is on top of a muffin.
+A notebook is on top of a folder.
+A folder is on top of a notebook.
+A tennis racket is on top of a skateboard.
+A skateboard is on top of a tennis racket.
+A remote control is on top of a game controller.
+A game controller is on top of a remote control.
+A doughnut is on top of a bagel.
+A bagel is on top of a doughnut.
+A textbook is on top of a dictionary.
+A dictionary is on top of a textbook.
+A block of ice is on top of a brick.
+A brick is on top of a block of ice.
+A coaster is on top of a placemat.
+A placemat is on top of a coaster.
+A pillow is on top of a cushion.
+A cushion is on top of a pillow.
+A kiwi is under a plum.
+A plum is under a kiwi.
+A marble is under a pebble.
+A pebble is under a marble.
+A frog is under a lizard.
+A lizard is under a frog.
+A mandarin is under a lime.
+A lime is under a mandarin.
+A toy car is under a toy truck.
+A toy truck is under a toy car.
+A cat is under a rabbit.
+A rabbit is under a cat.
+A shoe is under a chair.
+A chair is under a shoe.
+A cushion is under a blanket.
+A blanket is under a cushion.
+A book is under a desk lamp.
+A desk lamp is under a book.
+A pear is under an apple.
+An apple is under a pear.
+A kiwi is under a lime.
+A lime is under a kiwi.
+A slipper is under a sneaker.
+A sneaker is under a slipper.
+A scarf is under a towel.
+A towel is under a scarf.
+A notebook is under a magazine.
+A magazine is under a notebook.
+A backpack is under a stool.
+A stool is under a backpack.
+A plate is under a bowl.
+A bowl is under a plate.
+A marker is under a ruler.
+A ruler is under a marker.
+A glove is under a scarf.
+A scarf is under a glove.
+A saucer is under a teacup.
+A teacup is under a saucer.
+A magazine is under a newspaper.
+A newspaper is under a magazine.
+A pinecone is next to a walnut.
+A walnut is next to a pinecone.
+A spoon is next to a fork.
+A fork is next to a spoon.
+A pigeon is next to a dove.
+A dove is next to a pigeon.
+A strawberry is next to an olive.
+An olive is next to a strawberry.
+A dice is next to a domino.
+A domino is next to a dice.
+A zebra is next to a horse.
+A horse is next to a zebra.
+A mug is next to a teapot.
+A teapot is next to a mug.
+A wrench is next to a pliers.
+A pliers is next to a wrench.
+A candle is next to a vase.
+A vase is next to a candle.
+A brush is next to a comb.
+A comb is next to a brush.
+A salt shaker is next to a pepper shaker.
+A pepper shaker is next to a salt shaker.
+A battery is next to a bulb.
+A bulb is next to a battery.
+A pear is next to an apple.
+An apple is next to a pear.
+A spoon is next to a knife.
+A knife is next to a spoon.
+A duck is next to a goose.
+A goose is next to a duck.
+A lemon is next to a lime.
+A lime is next to a lemon.
+A mitten is next to a glove.
+A glove is next to a mitten.
+A lemon is next to an orange.
+An orange is next to a lemon.
+A padlock is next to a key.
+A key is next to a padlock.
+A smartphone is next to a tablet.
+A tablet is next to a smartphone.
+A mango is to the left of a papaya.
+A papaya is to the left of a mango.
+A paintbrush is to the left of a marker.
+A marker is to the left of a paintbrush.
+A goat is to the left of a sheep.
+A sheep is to the left of a goat.
+A tomato is to the left of a potato.
+A potato is to the left of a tomato.
+A cork is to the left of a bottle cap.
+A bottle cap is to the left of a cork.
+A moose is to the left of a deer.
+A deer is to the left of a moose.
+A screwdriver is to the left of a hammer.
+A hammer is to the left of a screwdriver.
+A calculator is to the left of a ruler.
+A ruler is to the left of a calculator.
+A pear is to the left of a peach.
+A peach is to the left of a pear.
+A stapler is to the left of a tape dispenser.
+A tape dispenser is to the left of a stapler.
+A swan is to the left of a goose.
+A goose is to the left of a swan.
+A bicycle is to the left of a scooter.
+A scooter is to the left of a bicycle.
+A donut is to the right of a croissant.
+A croissant is to the right of a donut.
+A glove is to the right of a hat.
+A hat is to the right of a glove.
+A violin is to the right of a cello.
+A cello is to the right of a violin.
+A radio is to the right of a speaker.
+A speaker is to the right of a radio.
+A tractor is to the right of a truck.
+A truck is to the right of a tractor.
+A squirrel is to the right of a rabbit.
+A rabbit is to the right of a squirrel.
+A pen is to the right of a pencil.
+A pencil is to the right of a pen.
+A wine glass is to the right of a water glass.
+A water glass is to the right of a wine glass.

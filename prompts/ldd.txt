@@ -1,0 +1,240 @@
+The cat that the man is petting is black.
+The cat that the man with a blue hat is petting is black.
+The cat that the man with a blue hat and purple trousers is petting is black.
+The cat that the man is looking at is black.
+The cat that the man with a blue hat is looking at is black.
+The cat that the man with a blue hat and purple shoes is looking at is black.
+The cat that the girl is petting is black.
+The cat that the girl with a blue hat is petting is black.
+The cat that the girl with a blue hat and purple gloves is petting is black.
+The cat that the girl is looking at is black.
+The cat that the girl with a blue hat is looking at is black.
+The cat that the girl with a blue hat and brown trousers is looking at is black.
+The cat that the child is petting is black.
+The cat that the child with a blue hat is petting is black.
+The cat that the child with a blue hat and brown shoes is petting is black.
+The cat that the child is looking at is black.
+The cat that the child with a blue hat is looking at is black.
+The cat that the child with a blue hat and brown gloves is looking at is black.
+The cat that the boy is petting is black.
+The cat that the boy with a blue hat is petting is black.
+The cat that the boy with a blue hat and green trousers is petting is black.
+The cat that the boy is looking at is black.
+The cat that the boy with a blue hat is looking at is black.
+The cat that the boy with a blue hat and green shoes is looking at is black.
+The cat that the woman is petting is black.
+The cat that the woman with a blue hat is petting is black.
+The cat that the woman with a blue hat and green gloves is petting is black.
+The cat that the woman is looking at is black.
+The cat that the woman with a blue backpack is looking at is black.
+The cat that the woman with a blue backpack and purple trousers is looking at is black.
+The cat that the man is petting is sitting.
+The cat that the man with a blue backpack is petting is sitting.
+The cat that the man with a blue backpack and purple shoes is petting is sitting.
+The cat that the man is looking at is sitting.
+The cat that the man with a blue backpack is looking at is sitting.
+The cat that the man with a blue backpack and purple gloves is looking at is sitting.
+The cat that the girl is petting is sitting.
+The cat that the girl with a blue backpack is petting is sitting.
+The cat that the girl with a blue backpack and brown trousers is petting is sitting.
+The cat that the girl is looking at is sitting.
+The cat that the girl with a blue backpack is looking at is sitting.
+The cat that the girl with a blue backpack and brown shoes is looking at is sitting.
+The cat that the child is petting is sitting.
+The cat that the child with a blue backpack is petting is sitting.
+The cat that the child with a blue backpack and brown gloves is petting is sitting.
+The cat that the child is looking at is sitting.
+The cat that the child with a blue backpack is looking at is sitting.
+The cat that the child with a blue backpack and green trousers is looking at is sitting.
+The cat that the boy is petting is sitting.
+The cat that the boy with a blue backpack is petting is sitting.
+The cat that the boy with a blue backpack and green shoes is petting is sitting.
+The cat that the boy is looking at is sitting.
+The cat that the boy with a blue backpack is looking at is sitting.
+The cat that the boy with a blue backpack and green gloves is looking at is sitting.
+The cat that the woman is petting is sitting.
+The cat that the woman with a blue shirt is petting is sitting.
+The cat that the woman with a blue shirt and purple trousers is petting is sitting.
+The cat that the woman is looking at is sitting.
+The cat that the woman with a blue shirt is looking at is sitting.
+The cat that the woman with a blue shirt and purple shoes is looking at is sitting.
+The mouse that the man is petting is black.
+The mouse that the man with a blue shirt is petting is black.
+The mouse that the man with a blue shirt and purple gloves is petting is black.
+The mouse that the man is looking at is black.
+The mouse that the man with a blue shirt is looking at is black.
+The mouse that the man with a blue shirt and brown trousers is looking at is black.
+The mouse that the girl is petting is black.
+The mouse that the girl with a blue shirt is petting is black.
+The mouse that the girl with a blue shirt and brown shoes is petting is black.
+The mouse that the girl is looking at is black.
+The mouse that the girl with a blue shirt is looking at is black.
+The mouse that the girl with a blue shirt and brown gloves is looking at is black.
+The mouse that the child is petting is black.
+The mouse that the child with a blue shirt is petting is black.
+The mouse that the child with a blue shirt and green trousers is petting is black.
+The mouse that the child is looking at is black.
+The mouse that the child with a blue shirt is looking at is black.
+The mouse that the child with a blue shirt and green shoes is looking at is black.
+The mouse that the boy is petting is black.
+The mouse that the boy with a blue shirt is petting is black.
+The mouse that the boy with a blue shirt and green gloves is petting is black.
+The mouse that the boy is looking at is black.
+The mouse that the boy with a red hat is looking at is black.
+The mouse that the boy with a red hat and purple trousers is looking at is black.
+The mouse that the woman is petting is black.
+The mouse that the woman with a red hat is petting is black.
+The mouse that the woman with a red hat and purple shoes is petting is black.
+The mouse that the woman is looking at is black.
+The mouse that the woman with a red hat is looking at is black.
+The mouse that the woman with a red hat and purple gloves is looking at is black.
+The mouse that the man is petting is sitting.
+The mouse that the man with a red hat is petting is sitting.
+The mouse that the man with a red hat and brown trousers is petting is sitting.
+The mouse that the man is looking at is sitting.
+The mouse that the man with a red hat is looking at is sitting.
+The mouse that the man with a red hat and brown shoes is looking at is sitting.
+The mouse that the girl is petting is sitting.
+The mouse that the girl with a red hat is petting is sitting.
+The mouse that the girl with a red hat and brown gloves is petting is sitting.
+The mouse that the girl is looking at is sitting.
+The mouse that the girl with a red hat is looking at is sitting.
+The mouse that the girl with a red hat and green trousers is looking at is sitting.
+The mouse that the child is petting is sitting.
+The mouse that the child with a red hat is petting is sitting.
+The mouse that the child with a red hat and green shoes is petting is sitting.
+The mouse that the child is looking at is sitting.
+The mouse that the child with a red hat is looking at is sitting.
+The mouse that the child with a red hat and green gloves is looking at is sitting.
+The mouse that the boy is petting is sitting.
+The mouse that the boy with a red backpack is petting is sitting.
+The mouse that the boy with a red backpack and purple trousers is petting is sitting.
+The mouse that the boy is looking at is sitting.
+The mouse that the boy with a red backpack is looking at is sitting.
+The mouse that the boy with a red backpack and purple shoes is looking at is sitting.
+The mouse that the woman is petting is sitting.
+The mouse that the woman with a red backpack is petting is sitting.
+The mouse that the woman with a red backpack and purple gloves is petting is sitting.
+The mouse that the woman is looking at is sitting.
+The mouse that the woman with a red backpack is looking at is sitting.
+The mouse that the woman with a red backpack and brown trousers is looking at is sitting.
+The dog that the man is petting is black.
+The dog that the man with a red backpack is petting is black.
+The dog that the man with a red backpack and brown shoes is petting is black.
+The dog that the man is looking at is black.
+The dog that the man with a red backpack is looking at is black.
+The dog that the man with a red backpack and brown gloves is looking at is black.
+The dog that the girl is petting is black.
+The dog that the girl with a red backpack is petting is black.
+The dog that the girl with a red backpack and green trousers is petting is black.
+The dog that the girl is looking at is black.
+The dog that the girl with a red backpack is looking at is black.
+The dog that the girl with a red backpack and green shoes is looking at is black.
+The dog that the child is petting is black.
+The dog that the child with a red backpack is petting is black.
+The dog that the child with a red backpack and green gloves is petting is black.
+The dog that the child is looking at is black.
+The dog that the child with a red shirt is looking at is black.
+The dog that the child with a red shirt and purple trousers is looking at is black.
+The dog that the boy is petting is black.
+The dog that the boy with a red shirt is petting is black.
+The dog that the boy with a red shirt and purple shoes is petting is black.
+The dog that the boy is looking at is black.
+The dog that the boy with a red shirt is looking at is black.
+The dog that the boy with a red shirt and purple gloves is looking at is black.
+The dog that the woman is petting is black.
+The dog that the woman with a red shirt is petting is black.
+The dog that the woman with a red shirt and brown trousers is petting is black.
+The dog that the woman is looking at is black.
+The dog that the woman with a red shirt is looking at is black.
+The dog that the woman with a red shirt and brown shoes is looking at is black.
+The dog that the man is petting is sitting.
+The dog that the man with a red shirt is petting is sitting.
+The dog that the man with a red shirt and brown gloves is petting is sitting.
+The dog that the man is looking at is sitting.
+The dog that the man with a red shirt is looking at is sitting.
+The dog that the man with a red shirt and green trousers is looking at is sitting.
+The dog that the girl is petting is sitting.
+The dog that the girl with a red shirt is petting is sitting.
+The dog that the girl with a red shirt and green shoes is petting is sitting.
+The dog that the girl is looking at is sitting.
+The dog that the girl with a red shirt is looking at is sitting.
+The dog that the girl with a red shirt and green gloves is looking at is sitting.
+The dog that the child is petting is sitting.
+The dog that the child with a yellow hat is petting is sitting.
+The dog that the child with a yellow hat and purple trousers is petting is sitting.
+The dog that the child is looking at is sitting.
+The dog that the child with a yellow hat is looking at is sitting.
+The dog that the child with a yellow hat and purple shoes is looking at is sitting.
+The dog that the boy is petting is sitting.
+The dog that the boy with a yellow hat is petting is sitting.
+The dog that the boy with a yellow hat and purple gloves is petting is sitting.
+The dog that the boy is looking at is sitting.
+The dog that the boy with a yellow hat is looking at is sitting.
+The dog that the boy with a yellow hat and brown trousers is looking at is sitting.
+The dog that the woman is petting is sitting.
+The dog that the woman with a yellow hat is petting is sitting.
+The dog that the woman with a yellow hat and brown shoes is petting is sitting.
+The dog that the woman is looking at is sitting.
+The dog that the woman with a yellow hat is looking at is sitting.
+The dog that the woman with a yellow hat and brown gloves is looking at is sitting.
+The rabbit that the man is petting is black.
+The rabbit that the man with a yellow hat is petting is black.
+The rabbit that the man with a yellow hat and green trousers is petting is black.
+The rabbit that the man is looking at is black.
+The rabbit that the man with a yellow hat is looking at is black.
+The rabbit that the man with a yellow hat and green shoes is looking at is black.
+The rabbit that the girl is petting is black.
+The rabbit that the girl with a yellow hat is petting is black.
+The rabbit that the girl with a yellow hat and green gloves is petting is black.
+The rabbit that the girl is looking at is black.
+The rabbit that the girl with a yellow backpack is looking at is black.
+The rabbit that the girl with a yellow backpack and purple trousers is looking at is black.
+The rabbit that the child is petting is black.
+The rabbit that the child with a yellow backpack is petting is black.
+The rabbit that the child with a yellow backpack and purple shoes is petting is black.
+The rabbit that the child is looking at is black.
+The rabbit that the child with a yellow backpack is looking at is black.
+The rabbit that the child with a yellow backpack and purple gloves is looking at is black.
+The rabbit that the boy is petting is black.
+The rabbit that the boy with a yellow backpack is petting is black.
+The rabbit that the boy with a yellow backpack and brown trousers is petting is black.
+The rabbit that the boy is looking at is black.
+The rabbit that the boy with a yellow backpack is looking at is black.
+The rabbit that the boy with a yellow backpack and brown shoes is looking at is black.
+The rabbit that the woman is petting is black.
+The rabbit that the woman with a yellow backpack is petting is black.
+The rabbit that the woman with a yellow backpack and brown gloves is petting is black.
+The rabbit that the woman is looking at is black.
+The rabbit that the woman with a yellow backpack is looking at is black.
+The rabbit that the woman with a yellow backpack and green trousers is looking at is black.
+The rabbit that the man is petting is sitting.
+The rabbit that the man with a yellow backpack is petting is sitting.
+The rabbit that the man with a yellow backpack and green shoes is petting is sitting.
+The rabbit that the man is looking at is sitting.
+The rabbit that the man with a yellow backpack is looking at is sitting.
+The rabbit that the man with a yellow backpack and green gloves is looking at is sitting.
+The rabbit that the girl is petting is sitting.
+The rabbit that the girl with a yellow shirt is petting is sitting.
+The rabbit that the girl with a yellow shirt and purple trousers is petting is sitting.
+The rabbit that the girl is looking at is sitting.
+The rabbit that the girl with a yellow shirt is looking at is sitting.
+The rabbit that the girl with a yellow shirt and purple shoes is looking at is sitting.
+The rabbit that the child is petting is sitting.
+The rabbit that the child with a yellow shirt is petting is sitting.
+The rabbit that the child with a yellow shirt and purple gloves is petting is sitting.
+The rabbit that the child is looking at is sitting.
+The rabbit that the child with a yellow shirt is looking at is sitting.
+The rabbit that the child with a yellow shirt and brown trousers is looking at is sitting.
+The rabbit that the boy is petting is sitting.
+The rabbit that the boy with a yellow shirt is petting is sitting.
+The rabbit that the boy with a yellow shirt and brown shoes is petting is sitting.
+The rabbit that the boy is looking at is sitting.
+The rabbit that the boy with a yellow shirt is looking at is sitting.
+The rabbit that the boy with a yellow shirt and brown gloves is looking at is sitting.
+The rabbit that the woman is petting is sitting.
+The rabbit that the woman with a yellow shirt is petting is sitting.
+The rabbit that the woman with a yellow shirt and green trousers is petting is sitting.
+The rabbit that the woman is looking at is sitting.
+The rabbit that the woman with a yellow shirt is looking at is sitting.
+The rabbit that the woman with a yellow shirt and green shoes is looking at is sitting.
