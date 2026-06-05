@@ -84,6 +84,7 @@ Set your Hugging Face token in `data_generation/image_generation.py`.
 
 ## Reproducing the Study
 
+If changing the prompts, put the .txt files in the `prompts` folder.
 Run the following steps in order:
 
 ```bash
@@ -106,8 +107,6 @@ jupyter notebook analysis/word_order_analysis.ipynb
 ---
 
 ## Citation
-
-If you use this code, please cite:
 
 ```bibtex
 @misc{Ceka2026prettypictures,
