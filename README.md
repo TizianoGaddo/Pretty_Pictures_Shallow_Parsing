@@ -2,7 +2,7 @@
 
 This repository contains the code for the paper *“Pretty Pictures, Shallow Parsing: The Impact of Syntactic Structure on Diffusion Models”*.
 
-The study evaluates how a text-to-image diffusion model handles:
+The study evaluates how a text-to-image diffusion model handles prompt with manipulations on:
 
 - Word Order  
 - Long-Distance Dependencies (LDD)  
@@ -13,7 +13,7 @@ The study evaluates how a text-to-image diffusion model handles:
 ## Requirements
 
 - Python 3.13  
-- NVIDIA GPU recommended (original experiments used an A100 80GB)
+- NVIDIA GPU recommended (original experiments used an A100 80GB VRAM)
 
 For lower-memory hardware, models can be adapted using quantization.
 
@@ -99,11 +99,6 @@ python data_generation/VLM_question_answering.py
 python analysis/evaluation.py
 python analysis/ambiguity_analysis.py
 python analysis/ldd_analysis.py
-```
-
-For word-order analysis:
-
-```bash
 jupyter notebook analysis/word_order_analysis.ipynb
 ```
 
@@ -114,12 +109,12 @@ jupyter notebook analysis/word_order_analysis.ipynb
 If you use this code, please cite:
 
 ```bibtex
-@article{AUTHOR_YEAR_TITLE,
+@misc{Ceka2026prettypictures,
   title={Pretty Pictures, Shallow Parsing: The Impact of Syntactic Structure on Diffusion Models},
-  author={Author Name(s)},
-  journal={Journal Name},
-  year={Year},
-  volume={Volume},
-  pages={Pages}
+  author={Ceka, Chiara and Gaddo, Tiziano and La Marra, Marco and Zamparelli, Roberto},
+  journal={},
+  year={2026},
+  volume={},
+  pages={}
 }
 ```
