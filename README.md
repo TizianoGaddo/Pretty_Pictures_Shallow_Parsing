@@ -12,7 +12,7 @@ The study evaluates how a text-to-image diffusion model handles prompt manipulat
 
 ## Requirements
 
-This code was tested on>
+Code was tested on:
 - Python 3.13  
 - NVIDIA A100 GPU, 80GB VRAM
 
