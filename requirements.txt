@@ -1,0 +1,24 @@
+# Scientific & Data Processing
+numpy>=2.1.0
+pandas>=2.2.3
+scipy>=1.14.1
+statsmodels>=0.14.4
+scikit-learn>=1.5.2
+bambi>=0.14.0
+arviz>=0.20.0
+matplotlib>=3.9.2
+
+# NLP
+spacy>=3.8.2
+
+# VLM, Computer Vision, Image Generation
+torch>=2.6.0
+torchvision>=0.21.0
+transformers>=4.46.3
+diffusers>=0.31.1
+huggingface-hub>=0.26.2
+accelerate>=1.1.1 
+opencv-python>=4.10.0.84
+pillow>=11.0.0
+git+https://github.com/facebookresearch/segment-anything.git
+git+https://github.com/openai/CLIP.git
